@@ -1,4 +1,4 @@
-# pdf
+# C#.NET PDF Modify Tool
 Standalone .NET PDF library, to create, read, modify, edit PDF document in .NET framework
 
 <a href="https://www.iditect.com/tutorial/pdf-document/">Create new PDF document</a>, load and read existing PDF document by strean or byte array.
